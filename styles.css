@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a:hover {
+  color: olive;
+  text-decoration: overline;
+}
+
+h1{
+  font-size: 60px
+}
+
+p{
+  color: maroon;
+}
+
+li{
+  display: inline-block;
+}
